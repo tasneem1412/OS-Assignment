@@ -1,2 +1,2 @@
 # OS-Assignment
-Operating System
+This project contian java implementation of 2 CPU scheduling for SJF and RR
