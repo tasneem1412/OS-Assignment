@@ -8,5 +8,5 @@ The SJF Algorithm in which the process having the smallest execution time is cho
 
 # RR Algorithm
 The Round Robin scheduling algorithm is one of the CPU scheduling algorithms in which every process gets a fixed amount of time quantum to execute the process. In this algorithm, every process gets executed cyclically. This means that processes that have their burst time remaining after the expiration of the time quantum are sent back to the ready state and wait for their next turn to complete the execution until it terminates. This processing is done in FIFO order which suggests that processes are executed on a first-come, first-serve basis. The implementation of RR Algorithm can be found in the <a href ="https://github.com/tasneem1412/OS-Assignment/blob/main/RR%20OS/src/com/company/Main.java">RR.JAVA</a> file
-  
+  ![RR](https://user-images.githubusercontent.com/128141527/225909997-d5be0882-d6c6-4eb0-af20-92264edc3eaf.png)
 
